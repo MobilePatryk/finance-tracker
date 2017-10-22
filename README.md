@@ -1,1 +1,1 @@
-Here we have my new rails app.
+Here we have my new rails app. It's Finance Tracker.
